@@ -3,7 +3,7 @@
 - Used Mutex, Semaphore to make sure each thread is running in order, when one thread is using the resource, some threads will wait until the resource is available.
 
 - this program is to simuate the following senario
-- #A SCHOOL DAY DURING COVID
+-                             A SCHOOL DAY DURING COVID
 Students follow a hybrid school schedule. On the in-face learning day students arrive at school 
 (simulated by sleep of random time) and wait in the schoolyard to be allowed to enter the school. 
 Once the school day starts (after most students arrive) the principal will call each student. If a 
